@@ -1,0 +1,16 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+To be able to follow history and add commits
+
+Concept Map: init, add, staging area
+
+We’ve introduced a few new concepts since we last revisited our concept map.
+
+git init
+git add
+git status
+staging area
+working directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+it is a place for the files ready to be commited to the repository
